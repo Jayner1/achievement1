@@ -18,3 +18,12 @@ I decided to use the dictionary data structure. To me it makes because it uses k
 
 -Added all 5 recipes to an outer structure. That structure being a List:
   I decided to use a list for the outer structure because eleements inside can be modified or deleted very simply. I can edit a recipe as well as add a new recipe. Or even delete one. You can arrange the recipes alphabetically. It just made the most sense to me to use a list. 
+
+Task 1.3
+- created a new file called Exercise 1.3.py.
+- Initiated recipes list and ingredients list. 
+- Created a script to ask the user for the number of recipes they want. 
+- Print out the list of recipes and ingredients.
+- Determine the difficulty of recipe
+- display recipe
+- Then sort out all ingredients in alphabetical order
